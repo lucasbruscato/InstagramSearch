@@ -1,57 +1,53 @@
-1512763000891	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
-1512763000898	geckodriver	INFO	Listening on 127.0.0.1:62093
-1512763002935	mozrunner::runner	INFO	Running command: "C:/Program Files (x86)/Mozilla Firefox/firefox.exe" "-marionette" "-profile" "C:\\Users\\LBRUSC~1\\AppData\\Local\\Temp\\rust_mozprofile.hXUX3EJ40TIx"
-1512763003734	Marionette	INFO	Enabled via --marionette
+1513284461094	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1513284461102	geckodriver	INFO	Listening on 127.0.0.1:49638
+1513284463100	mozrunner::runner	INFO	Running command: "C:/Program Files (x86)/Mozilla Firefox/firefox.exe" "-marionette" "-profile" "C:\\Users\\LBRUSC~1\\AppData\\Local\\Temp\\rust_mozprofile.Nnbqx7yy06l4"
+1513284463932	Marionette	INFO	Enabled via --marionette
 Unable to read VR Path Registry from C:\Users\lbruscato\AppData\Local\openvr\openvrpaths.vrpath
-[Child 24800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 24800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1512763006910	Marionette	INFO	Listening on port 62099
-1512763007089	Marionette	WARN	TLS certificate errors will be ignored for this session
-1512763007151	Marionette	DEBUG	Register listener.js for window 4294967297
-1512763007188	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-1512763007682	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1512763007683	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
-1512763008204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
-1512763008988	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
-Unable to read VR Path Registry from C:\Users\lbruscato\AppData\Local\openvr\openvrpaths.vrpath
-[Child 25260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 25260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-Unable to read VR Path Registry from C:\Users\lbruscato\AppData\Local\openvr\openvrpaths.vrpath
-[Child 25036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Child 9696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513284466759	Marionette	INFO	Listening on port 49644
+1513284467228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513284467292	Marionette	DEBUG	Register listener.js for window 4294967297
+1513284467320	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513284467983	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513284467984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513284468259	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/"
+1513284468793	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+OMContentLoaded" for "https://www.instagram.com/"
+1513284389729	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/"
+1513284395775	Marionette	DEBUG	Register listener.js for window 4294967307
+1513284396076	Marionette	DEBUG	Register listener.js for window 8589934593
+1513284438307	Marionette	DEBUG	Register listener.js for window 10737418241
+84332905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1513284333825	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bol.uol.com.br/"
+1513284346081	Marionette	DEBUG	Register listener.js for wUnable to read VR Path Registry from C:\Users\lbruscato\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+#!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nvrpaths.vrpath
+Parent 17964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+hannel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\lbruscato\AppData\Local\openvr\openvrpaths.vrpath
-yerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-[Parent 20244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 20244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+stry from C:\Users\lbruscato\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\lbruscato\AppData\Local\openvr\openvrpaths.vrpath
-[Child 1668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 1668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
-
-annel::SendAndWait] Error: Channel error: cannot send/recv
 
