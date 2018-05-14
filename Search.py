@@ -28,7 +28,7 @@ currentElement.send_keys(Keys.TAB)
 
 currentElement = driver.switch_to.active_element
 
-currentElement.send_keys("42Asimov")
+currentElement.send_keys("<senha aqui>")
 currentElement.send_keys(Keys.TAB * 2)
 
 currentElement = driver.switch_to.active_element
